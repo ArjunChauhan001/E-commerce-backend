@@ -22,7 +22,7 @@ A RESTful API for an e-commerce platform with JWT-based authentication, role-bas
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/ArjunChauhan001/E-commerce-backend.git
 
 ##.env 
 -PORT=5000
